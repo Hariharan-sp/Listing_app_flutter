@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "323130720422",
+    "firebase_url": "https://lcare-75bdf-default-rtdb.firebaseio.com",
+    "project_id": "lcare-75bdf",
+    "storage_bucket": "lcare-75bdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323130720422:android:eafd668c493ca0b4b23467",
+        "android_client_info": {
+          "package_name": "com.example.lc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT4YPzoBrOOwr2Nd4kgv9lDNq_bK9tFV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
